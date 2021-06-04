@@ -1,5 +1,4 @@
 Name: Smrithi Manickam  
-CRUZ ID: smmanick  
   
   
 #### ASSIGNMENT 3 README: Tower of Brahma   

@@ -1,5 +1,4 @@
 Name: Smrithi Manickam  
-CRUZ ID: smmanick  
   
   
 #### ASSIGNMENT 5 README: Sorting   

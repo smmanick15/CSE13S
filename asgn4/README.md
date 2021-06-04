@@ -1,5 +1,4 @@
 Name: Smrithi Manickam  
-CRUZ ID: smmanick  
   
   
 #### ASSIGNMENT 4 README: Bit Vectors and Primes    
